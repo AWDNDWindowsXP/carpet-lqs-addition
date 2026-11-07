@@ -1,0 +1,15 @@
+{
+  "carpet.category.lqs": "LQS",
+
+  "carpet.rule.craftableNameTag.name": "Craftable Name Tag",
+  "carpet.rule.craftableNameTag.desc": "Recipe from 26.1+: 1 paper + 1 metal nugget (copper/iron/gold) -> 1 name tag",
+
+  "carpet.rule.decoratedPotEmptyHandRetrieve.name": "Empty Hand Pot Retrieval",
+  "carpet.rule.decoratedPotEmptyHandRetrieve.desc": "Right-clicking a decorated pot with an empty hand retrieves its stored item, without breaking the pot",
+
+  "carpet.rule.chargedCreeperDropsAllHeads.name": "Charged Creeper All Heads",
+  "carpet.rule.chargedCreeperDropsAllHeads.desc": "Lifts vanilla's one-head-per-explosion limit so every victim drops its own head",
+
+  "carpet.rule.comparatorReadThroughChains.name": "Comparator Read Through Chains",
+  "carpet.rule.comparatorReadThroughChains.desc": "Comparators can read blocks and containers behind iron chains and copper chains"
+}

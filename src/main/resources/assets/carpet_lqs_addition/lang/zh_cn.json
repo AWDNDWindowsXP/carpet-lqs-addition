@@ -1,0 +1,15 @@
+{
+  "carpet.category.lqs": "LQS",
+
+  "carpet.rule.craftableNameTag.name": "可合成命名牌",
+  "carpet.rule.craftableNameTag.desc": "参考 26.1+ 官方配方：1 张纸 + 1 个金属颗粒（铜/铁/金粒）→ 1 个命名牌",
+
+  "carpet.rule.decoratedPotEmptyHandRetrieve.name": "陶罐空手取物",
+  "carpet.rule.decoratedPotEmptyHandRetrieve.desc": "空手右键有物品的饰纹陶罐时直接取出内容物，无需敲碎陶罐",
+
+  "carpet.rule.chargedCreeperDropsAllHeads.name": "高压苦力怕全头颅掉落",
+  "carpet.rule.chargedCreeperDropsAllHeads.desc": "解除原版每次爆炸只掉一个头颅的限制，每个遇害者各掉各的头",
+
+  "carpet.rule.comparatorReadThroughChains.name": "比较器透读链条",
+  "carpet.rule.comparatorReadThroughChains.desc": "比较器可以透过铁链和各种铜链检测其背后的方块或容器"
+}

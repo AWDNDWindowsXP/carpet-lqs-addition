@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.lqs.carpet.lqsaddition.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerRecipeManagerMixin",
+    "DecoratedPotBlockMixin",
+    "CreeperEntityMixin",
+    "ComparatorBlockMixin",
+    "WorldMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

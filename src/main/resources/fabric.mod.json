@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "carpet-lqs-addition",
+  "version": "${version}",
+
+  "name": "Carpet LQS Addition",
+  "description": "A Carpet mod extension by LQS.",
+  "authors": [
+    "LQS"
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/carpet_lqs_addition/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.lqs.carpet.lqsaddition.CarpetLqsAddition"
+    ]
+  },
+  "mixins": [
+    "carpet_lqs_addition.mixins.json"
+  ],
+  "accessWidener": "carpet_lqs_addition.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "carpet": "*"
+  },
+  "custom": {
+    "carpet": {
+      "extension": true
+    }
+  }
+}
